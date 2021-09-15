@@ -1,3 +1,3 @@
-```bash
-“Hi. I exist.”
+```diff
+- r3d t3xt
 ```
